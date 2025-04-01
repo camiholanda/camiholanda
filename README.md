@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Pix Force**
 
-- 🌱 I’m currently learning **C, Python, Java & IT Operations**
+- 🌱 I’m currently learning **C, Python & IT Operations**
 
 - 📝 I regularly write articles about **IT Operations**
 
