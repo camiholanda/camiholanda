@@ -2,12 +2,12 @@
 <h1 align="center">Hey there, I'm Cami</h1>
 <h3 align="center">A passionate IT student from Brazil</h3>
 
- <h3 align="center">- I’m currently working on **Binario Cloud & Pix Force**
- <h3 align="center">- I’m currently learning **C, Python & IT Operations**
-<h3 align="center"> - I regularly write articles about **IT Operations**
- <h3 align="center">-  Ask me about **anything**
-<h3 align="center"> - How to reach me **camihollanda@gmail.com** / **cmdhn.holanda@gmail.com**
- <h3 align="center">- Fun fact **I think I am funny**
+I’m currently working on _Binario Cloud & Pix Force
+I’m currently learning C, Python & IT Operations
+I regularly write articles about IT Operations
+Ask me about anything
+How to reach me camihollanda@gmail.com / cmdhn.holanda@gmail.com
+Fun fact I think I am funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
