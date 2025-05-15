@@ -1,13 +1,17 @@
 
-<h1 align="center">Hey there, I'm Cami</h1>
-<h3 align="center">A passionate IT student from Brazil</h3>
+<h1 align="center" style="color: #a259ff;">✨ Cami</h1>
+<h3 align="center" style="color: #a259ff;">IT student from Brazil, curious mind & tech enthusiast</h3>
 
-I’m currently working on _Binario Cloud & Pix Force
-I’m currently learning C, Python & IT Operations
-I regularly write articles about IT Operations
-Ask me about anything
-How to reach me camihollanda@gmail.com / cmdhn.holanda@gmail.com
-Fun fact I think I am funny
+---
+
+- 🧠 Working at **Binario Cloud** & **Pix Force**  
+- 🌱 Learning: `C`, `Python`, and `IT Operations`  
+- ✍️ Writing about **IT Ops** and everyday tech life  
+- 💬 Always open to exchange ideas & insights  
+- 📬 Reach me: camihollanda@gmail.com / cmdhn.holanda@gmail.com  
+- 😄 *Fun fact:* I think I'm funny – computers rarely complain 🤷‍♀️
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
