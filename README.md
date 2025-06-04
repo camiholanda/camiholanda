@@ -1,6 +1,5 @@
 
-<h1 align="center" style="color: #a259ff;">✨ Cami</h1>
-<h3 align="center" style="color: #a259ff;">IT student from Brazil, curious mind & tech enthusiast</h3>
+<h1 align="center" style="color: #a259ff;">IT student from Brazil, curious mind & tech enthusiast</h1>
 
 ---
 
