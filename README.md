@@ -4,10 +4,15 @@
 ---
 
 / Working at **Binario Cloud** & **Pix Force**  
+
 / Learning: `C`, `Python`, and `IT Operations`  
+
 / Writing about **IT Operations** in a **Discord Community**
-/ Always open to exchange ideas & insights  
+
+/ Always open to exchange ideas & insights
+
 / Reach me: camihollanda@gmail.com / cmdhn.holanda@gmail.com  
+
 / *Fun fact:* I think I'm funny – computers rarely complain 🤷‍♀️
 
 
