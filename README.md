@@ -3,7 +3,7 @@
 
 ---
 
-/ Working at **Binario Cloud** & **Pix Force**  
+/ Working at **Binario Cloud**  
 
 / Learning: `C`, `Python`, and `IT Operations`  
 
