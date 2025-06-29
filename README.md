@@ -1,8 +1,4 @@
 
-<h1 align="center" style="color: #a259ff;">IT student from Brazil, curious mind & tech enthusiast</h1>
-
----
-
 / Working at **Binario Cloud**  
 
 / Learning: `C`, `Python`, and `IT Operations`  
