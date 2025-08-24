@@ -1,9 +1,6 @@
 
-/ Working at **Binario Cloud**  
 
 / Learning: `C`, `Python`, and `IT Operations`  
-
-/ Writing about **IT Operations** in a **Discord Community**
 
 / Always open to exchange ideas & insights
 
