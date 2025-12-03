@@ -1,8 +1,6 @@
 
 
-
-- Learnig `Python` and `IT Operations`
-- Always open to exchange ideas & insights.
+Unindo aprendizado e criatividade em TI
 
 ---
 Languages and Tools:
