@@ -23,7 +23,3 @@ Connect with me:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camila-m-holanda" height="30" width="40" />
   </a>
 </p>
-
----
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiholanda&layout=compact&langs_count=8&theme=radical)
