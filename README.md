@@ -1,5 +1,5 @@
-## Unindo aprendizado e criatividade em TI <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-## Tecnologias <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+## Unindo aprendizado e criatividade em TI
+## Tecnologias
 <p align="left"> 
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -38,7 +38,7 @@
   </a>
 </p>
 
-## Vamos nos conectar? <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+## Vamos nos conectar?
 <p align="left">
   <a href="https://linkedin.com/in/camila-m-holanda" target="_blank">
     <img align="center" 
