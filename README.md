@@ -54,3 +54,11 @@ Vamos nos conectar?
          width="40" />
   </a>
 </p>
+
+-------------------------
+
+Portfólio QA
+
+Repositório principal com meus projetos e estudos de Quality Assurance:
+
+https://github.com/camiholanda/qa-portfolio
