@@ -1,6 +1,8 @@
-<h1>Unindo aprendizado e criatividade em TI</h1>
+Unindo aprendizado e criatividade em TI
 
-<h1>Tecnologias</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+Tecnologias
 
 <p align="left"> 
   <!-- Java -->
@@ -40,7 +42,7 @@
   </a>
 </p>
 
-<h1>Vamos nos conectar?</h1>
+Vamos nos conectar?
 
 <p align="left">
   <a href="https://linkedin.com/in/camila-m-holanda" target="_blank">
