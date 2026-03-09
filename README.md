@@ -17,13 +17,7 @@ Tecnologias
          alt="python" width="40" height="40"/> 
   </a> 
 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-         alt="javascript" width="40" height="40"/> 
-  </a> 
-
-  <!-- HTML5 -->
+   <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
          alt="html5" width="40" height="40"/>
@@ -34,7 +28,12 @@ Tecnologias
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
          alt="css3" width="40" height="40"/>
   </a>
-
+  
+ <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+         alt="javascript" width="40" height="40"/> 
+  </a> 
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
