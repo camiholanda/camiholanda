@@ -59,6 +59,6 @@ Vamos nos conectar?
 
 Portfólio QA
 
-Repositório principal com meus projetos e estudos de Quality Assurance:
+Repositório principal com meus projetos e estudos de Software Quality Assurance:
 
 https://github.com/camiholanda/qa-portfolio
