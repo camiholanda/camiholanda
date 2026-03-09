@@ -1,5 +1,9 @@
-## Unindo aprendizado e criatividade em TI
-## Tecnologias
+Unindo aprendizado e criatividade em TI
+
+-----------------------
+
+Tecnologias
+
 <p align="left"> 
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -36,9 +40,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
          alt="c" width="40" height="40"/> 
   </a>
-</p>
+  
+-------------------------
 
-## Vamos nos conectar?
+Vamos nos conectar?
+
 <p align="left">
   <a href="https://linkedin.com/in/camila-m-holanda" target="_blank">
     <img align="center" 
