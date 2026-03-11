@@ -39,6 +39,21 @@ Tecnologias
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
          alt="c" width="40" height="40"/> 
   </a>
+    <!-- Tailwind -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"
+   class="hover:scale-110 transition">
+    
+   <!-- Tailwind CSS -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+    alt="tailwindcss"
+    width="40"
+    height="40"
+  />
+</a>
+
+</a>
   
 -------------------------
 
