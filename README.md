@@ -57,7 +57,18 @@ Tecnologias
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
        alt="figma" width="40" height="40"/>
 </a>
-  
+
+<!-- Miro -->
+<a href="https://miro.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/miro.svg"
+       alt="Miro" width="40" height="40" />
+</a>
+  <!-- Trello -->
+<a href="https://trello.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trello.svg"
+       alt="Trello" width="40" height="40" />
+</a>
+
 -------------------------
 
 Vamos nos conectar?
