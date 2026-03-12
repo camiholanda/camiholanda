@@ -52,7 +52,10 @@ Tecnologias
     height="40"
   />
 </a>
-
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
+       alt="figma" width="40" height="40"/>
 </a>
   
 -------------------------
