@@ -52,6 +52,17 @@ Tecnologias
     height="40"
   />
 </a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+    alt="mysql"
+    width="40"
+    height="40"
+  />
+</a>
+
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
@@ -68,6 +79,7 @@ Tecnologias
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trello.svg"
        alt="Trello" width="40" height="40" />
 </a>
+
 
 -------------------------
 
