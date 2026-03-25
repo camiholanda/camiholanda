@@ -80,6 +80,12 @@ Tecnologias
        alt="Trello" width="40" height="40" />
 </a>
 
+<!-- JSON -->
+<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" 
+       alt="json" width="40" height="40"/>
+</a>
+
 
 -------------------------
 
