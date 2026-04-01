@@ -1,4 +1,4 @@
-<h1> Unindo aprendizado e criatividade em TI </h1>
+<h2> Unindo aprendizado e criatividade em TI </h2>
 
 
 Tecnologias
