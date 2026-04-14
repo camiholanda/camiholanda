@@ -68,6 +68,32 @@ Tecnologias
        alt="figma" width="40" height="40"/>
 </a>
 
+  <!-- Node.js -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
+         alt="nodejs" width="40" height="40"/> 
+  </a>
+
+  </a> 
+
+<!-- Jira -->
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" 
+       alt="jira" width="40" height="40"/> 
+</a> 
+
+<!-- Azure DevOps -->
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" 
+       alt="azure devops" width="40" height="40"/> 
+</a>
+  
+<!-- JSON -->
+<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" 
+       alt="json" width="40" height="40"/>
+</a>
+
 <!-- Miro -->
 <a href="https://miro.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/miro.svg"
@@ -79,17 +105,6 @@ Tecnologias
        alt="Trello" width="40" height="40" />
 </a>
 
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
-         alt="nodejs" width="40" height="40"/> 
-  </a> 
-  
-<!-- JSON -->
-<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" 
-       alt="json" width="40" height="40"/>
-</a>
 </p>
 
 -------------------------
