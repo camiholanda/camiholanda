@@ -77,7 +77,7 @@ Tecnologias
   </a> 
 
 <!-- Jira -->
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
+<a href="https://www.atlassian.com/jira" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.simpleicons.org/jira" 
        alt="jira" width="40" height="40"/> 
 
