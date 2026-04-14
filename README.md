@@ -78,8 +78,9 @@ Tecnologias
 
 <!-- Jira -->
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" 
+  <img src="https://cdn.simpleicons.org/jira" 
        alt="jira" width="40" height="40"/> 
+
 </a> 
 
 <!-- Azure DevOps -->
