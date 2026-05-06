@@ -1,114 +1,9 @@
 <h2> Unindo aprendizado e criatividade em TI </h2>
 
 
-Tecnologias
+Repositório principal com meus projetos e estudos de Software Quality Assurance:
 
-<p align="left"> 
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-         alt="java" width="40" height="40"/>
-  </a> 
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="python" width="40" height="40"/> 
-  </a> 
-
-   <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
-         alt="html5" width="40" height="40"/>
-  </a>
-
-  <!-- CSS3 -->
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
-         alt="css3" width="40" height="40"/>
-  </a>
-  
- <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-         alt="javascript" width="40" height="40"/> 
-  </a> 
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-         alt="c" width="40" height="40"/> 
-  </a>
-    <!-- Tailwind -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"
-   class="hover:scale-110 transition">
-    
-   <!-- Tailwind CSS -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
-    alt="tailwindcss"
-    width="40"
-    height="40"
-  />
-</a>
-
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-    alt="mysql"
-    width="40"
-    height="40"
-  />
-</a>
-
-<!-- Figma -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
-       alt="figma" width="40" height="40"/>
-</a>
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
-         alt="nodejs" width="40" height="40"/> 
-  </a>
-
-  </a> 
-
-<!-- Jira -->
-<a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.simpleicons.org/jira" 
-       alt="jira" width="40" height="40"/> 
-
-</a> 
-
-<!-- Azure DevOps -->
-<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" 
-       alt="azure devops" width="40" height="40"/> 
-</a>
-  
-<!-- JSON -->
-<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" 
-       alt="json" width="40" height="40"/>
-</a>
-
-<!-- Miro -->
-<a href="https://miro.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/miro.svg"
-       alt="Miro" width="40" height="40" />
-</a>
-  <!-- Trello -->
-<a href="https://trello.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trello.svg"
-       alt="Trello" width="40" height="40" />
-</a>
-
-</p>
-
--------------------------
+https://github.com/camiholanda/qa-portfolio
 
 Vamos nos conectar?
 
@@ -119,13 +14,3 @@ Vamos nos conectar?
          alt="camila-m-holanda" 
          height="30" 
          width="40" />
-  </a>
-</p>
-
--------------------------
-
-Portfólio QA
-
-Repositório principal com meus projetos e estudos de Software Quality Assurance:
-
-https://github.com/camiholanda/qa-portfolio
